@@ -54,6 +54,11 @@ The following external libraries are required:
  - libmicrohttpd
  - libsodium
 
+For Ubuntu:
+
+    sudo apt install -y git libmicrohttpd-dev libjansson-dev libcurl4-openssl-dev libpq-dev libsodium-dev psmisc cmake pkg-config build-essential
+
+
 ## Node Configuration
 Your Bitcoin node must be configured to construct blocks as you desire.  Bitcoin Knots provides many options for configuring your node's policy and is highly recommended.
 
