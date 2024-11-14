@@ -56,7 +56,7 @@ The following external libraries are required:
 
 For Ubuntu:
 
-    sudo apt install -y git libmicrohttpd-dev libjansson-dev libcurl4-openssl-dev libpq-dev libsodium-dev psmisc cmake pkg-config build-essential
+    sudo apt install -y git libmicrohttpd-dev libjansson-dev libcurl4-openssl-dev libsodium-dev psmisc cmake pkg-config build-essential
 
 
 ## Node Configuration
